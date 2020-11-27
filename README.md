@@ -1,3 +1,2 @@
 # Amar-kumar
-This is a testing Repository created for storing Screenshots.!!!!!
-XYZ...
+This is a testing Repository created for storing Screenshots.!!!!
