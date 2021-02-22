@@ -1,7 +1,7 @@
 # Amar-kumar
 This is a testing Repository created for storing Screenshots.!!
 
-
+<!--
 Deployment :
 https://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-a-new-repository/21309554
 
@@ -18,3 +18,5 @@ git remote add origin https://github.com/amark720/Car-Brand-Classifier-And-Deplo
 git push -u origin main
 .......
 ####
+
+-->
