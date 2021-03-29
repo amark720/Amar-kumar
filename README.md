@@ -21,4 +21,4 @@ git push -u origin main
 
 -->
 
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amark720&label=Views&color=blue&style=plastic" alt="amark720" /> </p>
